@@ -2,7 +2,7 @@
 ## Avtorji
 
 *Jošt Gojkovič
-*Ado Smolar
+*Nekej
 
 ## Opis
 
