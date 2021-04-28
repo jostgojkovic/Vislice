@@ -2,6 +2,7 @@
 ## Avtorji
 
 *Jošt Gojkovič
+*Nekej
 
 ## Opis
 
